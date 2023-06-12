@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @nakhmetg
+- 👋 Hi, I’m Ainur
 - 👀 I’m interested in Software Quality Assurance Engineer
 - 🌱 I’m currently learning QA Automation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me www.linkedin.com/in/ainurakhmetganiyeva
 
 <!---
 nakhmetg/nakhmetg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
